@@ -1,5 +1,5 @@
 Guidelines for the IDR1 program
-IDR stands for ‘Iterative Digital Reversion’
+IDR stands for â€˜Iterative Digital Reversionâ€™
 (IDR1f ver.1.0)   
-‘f’   for ‘final’
+
 Compiled by Y. Almirantis. Email address: yalmir@bio.demokritos.gr
